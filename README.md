@@ -4,6 +4,9 @@ This is a simple one page app that lists contacts and also allows you to Create,
 
 N.B. The 'node_modules' folder was not uploaded to GitHub. Instead just run 'npm install'.
 
+---
+
+Built with VS CODE
 
 ---
 
@@ -33,10 +36,6 @@ To insert data into the db from 'cmd', just type in ...
         number: '333-3333-333'    
       }
     ])
-
----
-
-Built with VS CODE
 
 ---
 
