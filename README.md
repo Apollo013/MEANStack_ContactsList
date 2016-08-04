@@ -6,7 +6,7 @@ N.B. The 'node_modules' folder was not uploaded to GitHub. Instead just run 'npm
 
 ---
 
-Built with VS CODE
+Built with [VS CODE](https://www.visualstudio.com/en-us/products/code-vs.aspx)
 
 ---
 
