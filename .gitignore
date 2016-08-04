@@ -14,6 +14,9 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+# App Folders
+node_modules/*
+
 # Windows shortcuts
 *.lnk
 

@@ -1,0 +1,19 @@
+{
+  "name": "MEANStack_ContactsList",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jsconfig.json",
+  "dependencies": {
+    "express": "^4.14.0",
+    "typings": "^1.3.2"
+  },
+  "devDependencies": {
+    "typings": "^1.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server"
+  },
+  "author": "Paul James Millar",
+  "license": "ISC"
+}
