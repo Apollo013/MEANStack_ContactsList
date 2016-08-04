@@ -15,24 +15,24 @@ I named the database 'contactdb', (you will need to change this in server.js if 
 
 To insert data into the db from 'cmd', just type in ...
 
-  db.contactdb.insert(
-  [
-    {
-      name: 'Tom',
-      email: 'tom@gmail.com,
-      number: '111-1111-111'
-    },
-    {
-      name: 'mary',
-      email: 'mary@gmail.com,
-      number: '222-2222-222'    
-    },
-    {
-      name: 'Jane',
-      email: 'jane@gmail.com,
-      number: '333-3333-333'    
-    }
-  ])
+    db.contactdb.insert(
+    [
+      {
+        name: 'Tom',
+        email: 'tom@gmail.com,
+        number: '111-1111-111'
+      },
+      {
+        name: 'mary',
+        email: 'mary@gmail.com,
+        number: '222-2222-222'    
+      },
+      {
+        name: 'Jane',
+        email: 'jane@gmail.com,
+        number: '333-3333-333'    
+      }
+    ])
 
 ---
 
